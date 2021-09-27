@@ -1,2 +1,2 @@
-# tabs-and-media
+# Tabs and Media
 GitHub Pages
